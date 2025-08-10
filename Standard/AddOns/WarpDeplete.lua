@@ -21,7 +21,7 @@ NUI.WarpDeplete = {
 	["bar2Texture"] = "Melli",
 	["keyDetailsFont"] = "Naowh",
 	["bar3Font"] = "Naowh",
-	["bar1Texture"] = "Melli",
+	["bar3Texture"] = "Melli",
 	["deathsFont"] = "Naowh",
 	["frameY"] = 140.2191772460938,
 	["forcesOverlayTexture"] = "Melli",
@@ -38,7 +38,7 @@ NUI.WarpDeplete = {
 	["forcesFont"] = "Naowh",
 	["forcesFontSize"] = 14,
 	["customCurrentPullFormat"] = "",
-	["bar3Texture"] = "Melli",
 	["forcesOverlayTextureColor"] = "ffffffff",
+	["bar1Texture"] = "Melli",
 	["barWidth"] = 290,
 }
